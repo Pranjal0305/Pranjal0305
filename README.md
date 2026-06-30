@@ -106,16 +106,6 @@ Solar-powered AI-IoT aeroponic cultivation system
 ---
 
 
-## Contribution-snake
-
-<div align="center">
-
-[![Snake animation](https://raw.githubusercontent.com/Pranjal0305/Pranjal0305/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Pranjal0305/Pranjal0305/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
