@@ -1,146 +1,132 @@
 <div align="center">
 
-# Hi 👋, I'm Pranjal Rai
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7941E&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Pranjal+Rai+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+GenAI+Builder;Agentic+AI+%2F+RAG+%2F+LLM+Systems;IEEE+M.P.+SAC+Secretary+%F0%9F%8F%9B%EF%B8%8F)](https://git.io/typing-svg)
 
-### AI Engineer • Full Stack Developer • IEEE Volunteer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangChain;FastAPI+%7C+React+Developer;IEEE+Secretary;Researcher+%26+Hackathon+Enthusiast;Always+Building+Something+Cool+%F0%9F%9A%80"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=260&section=header&text=Pranjal%20Rai&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20LLMs%20|%20Full%20Stack%20Developer&descAlignY=65"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-rai03)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranjal0305)
+[![Email](https://img.shields.io/badge/Email-F7941E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjal230608@acropolis.in)
 
 </div>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🎓 Pursuing **B.Tech CSE (AI & ML)** @ AITR, Indore — RGTU Bhopal *(2023–27)*
+- 🤖 Building real-world solutions in **Generative AI**, **RAG pipelines**, and **Machine Learning**
+- 🏛️ **Secretary**, IEEE Madhya Pradesh SAC Committee ·  **Advisor**, IEEE SIGHT AITR
+- 🏆 1st Runner-up, Navonmesh National Level Hackathon (2025) 
+- 📝 Co-author, IEEE ICIH 2025 published research on AI-IoT aeroponic systems
+- 💬 Ask me about **LangChain, LangGraph, RAG, Prompt Engineering, Scikit-learn**
+- 📫 Reach me at **pranjal230608@acropolis.in**
+- 🤝 Open to **internships**, **research collaborations**, and **AI/ML projects**
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
-# Hi 👋, I'm Pranjal Rai
+**Languages & Fundamentals**
 
-### AI Engineer • Full Stack Developer • IEEE Volunteer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-F7941E?style=for-the-badge)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+AI+Agents+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+LangChain;FastAPI+%7C+React+Developer;IEEE+Secretary;Researcher+%26+Hackathon+Enthusiast;Always+Building+Something+Cool+%F0%9F%9A%80"/>
+**AI / ML / GenAI**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=260&section=header&text=Pranjal%20Rai&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20LLMs%20|%20Full%20Stack%20Developer&descAlignY=65"/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6636F1?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0E1116?style=for-the-badge&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
-## 🎯 Currently Working On
 
-🤖 AI Agents
 
-🧠 Large Language Models
+---
 
-📚 Retrieval-Augmented Generation
+## 📌Projects
 
-⚡ FastAPI APIs
+<table>
+<tr>
+<td width="50%" valign="top">
 
-☁️ Cloud Deployment
+### 🟠 LegalSarthi
+AI-powered legal research & decision support system
 
-🌱 Open Source
+- **RAG pipeline** for grounded legal Q&A
+- **Vector search** for case-based retrieval
+- LLM-driven legal insight generation
 
-🏆 Hackathons
+`Python` `LangChain` `RAG` `Vector DB`
 
-📄 Research Publications
+</td>
+<td width="50%" valign="top">
 
-## 💻 Tech Stack
+### 🌱 Smart Mush
+Solar-powered AI-IoT aeroponic cultivation system
 
-<p align="center">
+- Real-time crop monitoring via **IoT sensors**
+- **ML-driven** disease detection & automation
+- Cloud-based analytics dashboard
+- Published at IEEE ICIH 2025
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,html,css,tailwind,fastapi,docker,git,github,vscode,mongodb,postgres"/>
+`Python` `IoT` `ML` `Cloud`
 
-</p>
-## 🤖 AI / ML
+</td>
+</tr>
+</table>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+## Certifications
 
-<img src="https://img.shields.io/badge/LangGraph-1E88E5?style=for-the-badge"/>
+| Badge | Certification | Issuer |
+|---|---|---|
+| 🤖 | Principles of Generative AI | Infosys Springboard |
+| 📊 | Data Science Foundation | Infosys Springboard |
+| 💻 | Front End Web Developer | Infosys Springboard |
+| 🌐 | MERN Stack Web Development | EY Global Delivery Services & AICTE |
 
-<img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
+## Contribution-snake
 
-<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-darkgreen?style=for-the-badge"/>
-
-</p>
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pranjal0305&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal0305&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal0305&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-## 📈 Contribution Graph
-
-[![Pranjal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranjal0305&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Pranjal0305&theme=tokyonight&margin-w=15&margin-h=15)
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| ⚖️ LegalSarthi | AI-powered Legal Research Assistant using RAG + LLMs |
-| 🌱 SmartMush | AI + IoT Aeroponic Farming Platform |
-| 🌍 EcoOne | Smart Municipal AI Platform |
-| 🤖 SEO AI Agent | AI-powered SEO Automation |
-
-## 🏅 Leadership
-
-🏆 Secretary — IEEE MP SAC
-
-🌍 IEEE Smart Cities Ambassador
-
-💡 IEEE SIGHT Advisor
-
-🎤 Core Organizing Committee Member — IEEE ICIH
-
-🚀 Team Lead — Multiple AI & Hackathon Projects
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Pranjal0305">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Pranjal0305&style=for-the-badge&color=7C3AED"/>
-
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 <div align="center">
 
-> *"Building intelligent systems that solve real-world problems."*
+[![Snake animation](https://raw.githubusercontent.com/Pranjal0305/Pranjal0305/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Pranjal0305/Pranjal0305/output/github-contribution-grid-snake-dark.svg)
 
-⭐ Thanks for visiting my profile!
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+*Open to internships, research collaborations, and AI/ML projects.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-F7941E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranjal-rai03)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-F7941E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjal230608@acropolis.in)
+
+*"Learns from failures, builds anyway."*
+
+<img src="https://komarev.com/ghpvc/?username=Pranjal0305&color=F7941E&style=for-the-badge" alt="profile views"/>
 
 </div>
